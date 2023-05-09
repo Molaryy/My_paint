@@ -1,0 +1,8 @@
+- You can create a new page and set the file format and colors of the page 
+- You can change the color of the brush with the color panel
+- With your mouse wheel you can zoom in and zoom out the page
+- You can save your file if you click in save button
+- You can use the erase tools
+- You can open a file
+- You can change the background color with the chatbox
+- You can resize the window
